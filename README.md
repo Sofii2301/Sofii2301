@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Sofia Alvarez Rodero, I am a Full Stack Developer
+I've been studying code for 3 years and I have found a passion for Java development, web development with Angular and application development with Dart - Flutter. I would really like to be able to work and gain experience in some of these skills.
+
+🌍 I'm based in Bahia Blanca, Buenos Aires, Argentina.
+🌱 I’m currently learning SpringBoot and Flutter
+📫 How to reach me: sofialvarezrodero97@gmail.com
+
 
 <!--
 **Sofii2301/Sofii2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
