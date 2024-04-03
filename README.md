@@ -33,7 +33,6 @@ I've been studying code for 3 years and I have found a passion for Java developm
   <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Angular-0F0F11?style=flat&logo=angular&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=FFFFFF">
