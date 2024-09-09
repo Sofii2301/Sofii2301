@@ -8,9 +8,11 @@
 [![Linkedin: Sofia Alvarez Rodero](https://img.shields.io/badge/-Sofia_Alvarez_Rodero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofi-alvarez-rodero/)](https://www.linkedin.com/in/sofi-alvarez-rodero/)
 [![GitHub: Sofii2301](https://img.shields.io/github/followers/Sofii2301?label=follow&style=social)](https://github.com/Sofii2301)
 
-📚 I have been studying programming for 4 years. 
-👩🏼‍💻 Currently, I am working as a Front-End Developer with React Router + Vite + Bootstrap. 
-💪 I am a junior developer looking to grow and gain experience
+<p>
+  📚 I have been studying programming for 4 years. </br>
+  👩🏼‍💻 Currently, I am working as a Front-End Developer with React Router + Vite + Bootstrap. </br>
+  💪 I am a junior developer looking to grow and gain experience
+</p>
 
 ### <img src="https://cdn.icon-icons.com/icons2/4076/PNG/512/speech_bubble_help_communications_chat_box_about_info_information_icon_258922.png" width="20"> A little more about me... 
 
