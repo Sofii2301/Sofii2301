@@ -10,15 +10,15 @@
 
 <p>
   📚 I have been studying programming for 4 years. </br>
-  👩🏼‍💻 Currently, I am working as a Front-End Developer with React Router + Vite + Bootstrap. </br>
-  💪 I am a junior developer looking to grow and gain experience
+  👩🏼‍💻 Currently, I am working as a Front-End Developer. </br>
+  💪 I am a junior developer looking to grow and gain experience.
 </p>
 
 ### <img src="https://cdn.icon-icons.com/icons2/4076/PNG/512/speech_bubble_help_communications_chat_box_about_info_information_icon_258922.png" width="20"> A little more about me... 
 
 <p>
   🌍 I'm based in Bahia Blanca, Buenos Aires, Argentina. </br>
-  🌱 I’m currently learning and working in React </br>
+  🌱 I’m currently learning and working with React Router + Vite + Bootstrap. </br>
   📫 How to reach me: sofialvarezrodero97@gmail.com
 </p>
 
