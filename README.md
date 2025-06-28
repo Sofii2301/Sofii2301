@@ -5,6 +5,8 @@
   Information Systems Engineering Student at <a href="https://www.uns.edu.ar/">UNS</a>
 </em></p>
 
+Visit my <a href="https://sofiaalvarezrodero.vercel.app/">portfolio</a></br>
+
 [![Linkedin: Sofia Alvarez Rodero](https://img.shields.io/badge/-Sofia_Alvarez_Rodero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofi-alvarez-rodero/)](https://www.linkedin.com/in/sofi-alvarez-rodero/)
 [![GitHub: Sofii2301](https://img.shields.io/github/followers/Sofii2301?label=follow&style=social)](https://github.com/Sofii2301)
 
